@@ -1,5 +1,8 @@
 # Straffeloven 1902 - se [lovdata](https://lovdata.no/dokument/NLO/lov/1902-05-22-10)
 
+#TESTING# - Her kommer 2BADR Gruppe 2 sin besvarelse av øving 1 i IDRI2004 Informasjons- og systemforvaltning
+Hang tight...
+
 * 1. oktober 2015: Ble erstattet av Straffeloven 2005
 * Loven kan anvendes f.eks ved:
   * Innbrudd i datasystemer (§ 145)
